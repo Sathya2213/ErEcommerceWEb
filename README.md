@@ -3,11 +3,10 @@
 Welcome to **Buma Sneaker**, an e-commerce website designed for sneaker enthusiasts! This project is a simple yet functional website built using **HTML**, **CSS**, and **JavaScript** to showcase and sell the latest sneaker collections.
 
 ## 🖼️ Features
+- **Types of Shoes:** Categorized sections to explore various sneaker styles.
 - **Responsive Design:** Optimized for all screen sizes, from mobile to desktop.
-- **Product Catalog:** Browse through a curated collection of sneakers.
-- **Interactive UI:** Smooth animations and hover effects for an engaging experience.
-- **Dynamic Shopping Cart:** Add or remove items with ease.
-- **User-Friendly Navigation:** Simple and clean design for effortless browsing.
+- **User-Friendly Navigation:** Simple and clean interface for effortless browsing.
+- **Frontend Design:** Modern, visually appealing layout to enhance the shopping experience.
 
 ## 🔧 Technologies Used
 - **HTML**: For structuring the website.
